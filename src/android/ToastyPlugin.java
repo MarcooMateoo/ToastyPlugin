@@ -1,4 +1,4 @@
-package com.stanleyidesis.cordova.plugin.ToastyPlugin";
+package com.stanleyidesis.cordova.plugin.ToastyPlugin;
 // The native Toast API
 import android.widget.Toast;
 // Cordova-required packages
